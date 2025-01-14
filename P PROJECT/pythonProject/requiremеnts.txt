@@ -1,6 +1,0 @@
-все нужные библиотеки:
-time
-tqdm
-requests
-json
-configparser
